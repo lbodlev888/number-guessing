@@ -16,6 +16,6 @@ int main()
         count++;
     }
     cout << "Felicitari, ai ghicit\nNr era " << nr <<
-    "\nai ghicit in " << count << " incercari";
+    "\nai ghicit in " << count << " incercari\n";
     return 0;
 }
